@@ -1,6 +1,6 @@
 # Hi, I'm Lezly
 
-Quantum computing enthusiast exploring Qiskit.
+Quantum computing enthusiast exploring Qiskit. My work focuses on sensing, photonic hardware, and machine learning for intelligent sensing architectures.
 
 ## Current focus
 - Quantum sensing
@@ -10,7 +10,13 @@ Quantum computing enthusiast exploring Qiskit.
 ## Projects
 - Quantum circuit experiments
 - Python simulation work
-- Sensor Modeling 
+- Sensor Modeling
+
+## Research Interests 
+- Photonic computing and optical interconnects for AI systems
+- Machine learning for adaptive sensing 
+- Intelligent sensing architectures combining hardware and ML
+- Quantum and photonic hardware for next-generation computing
 
 ## Links
 LinkedIn: https://www.linkedin.com/in/lezly-murphy
