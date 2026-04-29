@@ -1,4 +1,4 @@
-# Hi, I'm Lezly
+# Hi, I'm Lezly!
 
 Quantum computing enthusiast exploring Qiskit. My work focuses on sensing, photonic hardware, and machine learning for intelligent sensing architectures.
 
