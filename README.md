@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lezly
+
+Quantum computing enthusiast exploring Qiskit.
+
+## Current focus
+- Quantum sensing
+- Quantum algorithms
+- Qiskit internals
+
+## Projects
+- Quantum circuit experiments
+- Python simulation work
+- Sensor Modeling 
+
+## Links
+LinkedIn: https://www.linkedin.com/in/lezly-murphy
+
 
 <!--
 **lmurphy-sensing/lmurphy-sensing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
