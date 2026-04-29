@@ -18,7 +18,7 @@ Quantum computing enthusiast exploring Qiskit. My work focuses on sensing, photo
 - Intelligent sensing architectures combining hardware and ML
 - Quantum and photonic hardware for next-generation computing
 
-## Links
+## Connect with Me
 LinkedIn: https://www.linkedin.com/in/lezly-murphy
 
 
