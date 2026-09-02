@@ -1,6 +1,8 @@
 # Hi, I'm Lezly!
 
-Quantum computing enthusiast exploring Qiskit. My work focuses on sensing, photonic hardware, and machine learning for intelligent sensing architectures.
+Hi, I'm Lezly! 👋 I'm an electrical engineer with a passion for developing intelligent sensing technologies for aerospace and space applications. My interests span radar and RF sensing, photonics and optical systems, signal processing, machine learning, and advanced computing architectures. I enjoy exploring how sensing hardware, algorithms, and AI can work together to enable more adaptive and autonomous systems.
+
+This GitHub highlights projects and technical explorations across sensing, AI/ML, modeling and simulation, and emerging technologies as I continue building toward research in next-generation aerospace and space sensing systems. 🚀
 
 ## Current focus
 - Quantum sensing
