@@ -5,9 +5,9 @@ Hi, I'm Lezly! 👋 I'm an electrical engineer with a passion for developing int
 This GitHub serves as a growing collection of my technical projects, simulations, experiments, and continued exploration across sensing and emerging technologies. 🚀
 
 ## Current focus
-- Quantum sensing
-- Quantum algorithms
-- Qiskit internals
+-🛰️ Intelligent Sensing Systems for Aerospace & Space
+📡 Radar, RF & Optical/Photonic Sensing
+🧠 Machine Learning for Adaptive & Autonomous Sensing
 
 ## Projects
 - Quantum circuit experiments
