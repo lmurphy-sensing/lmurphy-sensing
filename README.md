@@ -1,6 +1,6 @@
 # Hi, I'm Lezly!
 
-Hi, I'm Lezly! 👋 I'm an electrical engineer with a passion for developing intelligent sensing technologies for aerospace and space applications. My interests span radar and RF sensing, photonics and optical systems, signal processing, machine learning, and advanced computing architectures. I enjoy exploring how sensing hardware, algorithms, and AI can work together to enable more adaptive and autonomous systems.
+Hi, I'm Lezly Murphy! 👋 I'm an electrical engineer with a passion for developing intelligent sensing technologies for aerospace and space applications. My interests span radar and RF sensing, photonics and optical systems, signal processing, machine learning, and advanced computing architectures. I enjoy exploring how sensing hardware, algorithms, and AI can work together to enable more adaptive and autonomous systems.
 
 This GitHub serves as a growing collection of my technical projects, simulations, experiments, and continued exploration across sensing and emerging technologies. 🚀
 
